@@ -22,8 +22,9 @@ void main(void)
 	while(1)
 	{
             P1OUT=0x00;
+            delay(25000)
             P1OUT=0x01;
-            delay(100000);
+            delay(25000);
 	}
 }
 	
