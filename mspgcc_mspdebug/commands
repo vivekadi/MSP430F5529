@@ -1,0 +1,20 @@
+msp430-gcc -mmcu=msp430f5529 -mdisable-watchdog main.c
+
+
+// to compile the c program and generate a .out file
+
+
+
+mspdebug tilib
+
+
+// dubugger with JTAG
+
+
+(mspdebug) 
+
+1. prog /file path/a.out
+
+2. run
+
+3. exit
