@@ -1,0 +1,12 @@
+Double angle can be produces for range of 10 to 135 deg
+
+this gives output range of 20 to 270 degrees!!!
+
+
+MCU clock 32000
+Freq 50
+
+MIN duty 54
+MAX duty 448
+
+servo deg 180
