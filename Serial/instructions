@@ -1,0 +1,5 @@
+Install pyserial
+
+pip3 install pyserial
+
+then run the python code with the msp430 code
